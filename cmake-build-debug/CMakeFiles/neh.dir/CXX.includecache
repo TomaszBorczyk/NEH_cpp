@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tom/CLionProjects/sterowanie-procesami-dyskretnymi/neh/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+fstream
+C:/Users/Tom/CLionProjects/sterowanie-procesami-dyskretnymi/neh/fstream
+numeric
+-
+
